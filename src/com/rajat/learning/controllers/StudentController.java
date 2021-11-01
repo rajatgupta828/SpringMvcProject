@@ -29,7 +29,9 @@ public class StudentController {
 		
 		// log the data
 		System.out.println(" The student  : " + theStudent.getFirstName() + " " + theStudent.getLastName() + 
-				" of country : " + theStudent.getCountry() +  " added.");
+				" of country : " + theStudent.getCountry() +
+				" Having  favourite Language : " + theStudent.getFavouriteLanguage() 
+				+  " added.");
 
 		
 		return "student-confirmation";
