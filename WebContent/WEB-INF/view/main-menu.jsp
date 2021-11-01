@@ -12,6 +12,9 @@
 		<a href="showFormRequestModel">Learn How to read data from HTML Forms and Parse Data using Request Model</a>
 		<hr>
 		<a href="student/showForm">Spring Form Learning</a>
+		
+		<hr>
+		<a href="customer/showForm">Learn Validation Using Spring</a>
 		<hr>
 		<a href="about/aboutus">About Us Page</a>
 </body>
